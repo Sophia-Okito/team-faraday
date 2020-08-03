@@ -10,4 +10,7 @@ The main goal of this project is for members of team-faraday to write scripts in
 The next step is to make a csv file with the biodata of members of the team.
 ## Team Members
 * Sophia Okito
+
+# Steps on how to go about task one
+
 ![Pipeline Task Stage 0](https://user-images.githubusercontent.com/63434504/89200450-f252f880-d5a7-11ea-8a61-96cfe580bf42.jpg)
