@@ -1,6 +1,6 @@
 
 
-var call="Hello, I am Azubuike Nnamdi Clement by name with slack email blessedmarcel1@gmail.com, Software Development as my Biostack and my slack name is @Clement."
+var call="Hello, I am Azubuike Nnamdi Clement by name with slack email blessedmarcel1@gmail.com used Javascript as my preferred language, Software Development as my Biostack and my slack name is @Clement."
 
 function HackBio(){
 
