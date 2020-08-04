@@ -7,7 +7,7 @@ public class hackbio {
         String email = "okitooghenetega@gmail.com";
         String language = "Java";
         String biostack = "Data Analytics";
-        String slackUsername = "@Sophia Okito";
+        String slackUsername = "@Sophia";
         System.out.println("Name: " + name);
         System.out.println("Email: " + email);
         System.out.println("Language: " + language);
