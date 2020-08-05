@@ -1,5 +1,6 @@
-![hbb](https://user-images.githubusercontent.com/63434504/89467925-650dd080-d76e-11ea-9103-9ece106df499.jpg) # HackBio 
-# First Tasks
+![hbb](https://user-images.githubusercontent.com/63434504/89467925-650dd080-d76e-11ea-9103-9ece106df499.jpg) 
+# HackBio 
+## First Tasks
 This is the main repository of team-faraday for HackBio 2020 Virtual Internship
 ## Goals:
 The main goal of this project is for members of team-faraday to write scripts in various programming languages that will print out their;
