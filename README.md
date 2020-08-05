@@ -1,5 +1,5 @@
-![hbb](https://user-images.githubusercontent.com/63434504/89467925-650dd080-d76e-11ea-9103-9ece106df499.jpg)
-# HackBio - First Tasks
+![hbb](https://user-images.githubusercontent.com/63434504/89467925-650dd080-d76e-11ea-9103-9ece106df499.jpg) # HackBio 
+# First Tasks
 This is the main repository of team-faraday for HackBio 2020 Virtual Internship
 ## Goals:
 The main goal of this project is for members of team-faraday to write scripts in various programming languages that will print out their;
@@ -11,6 +11,15 @@ The main goal of this project is for members of team-faraday to write scripts in
 The next step is to make a csv file with the biodata of members of the team.
 ## Team Members
 * Sophia Okito
+* Awopetu Mobolaji Joshua
+* Clement Nnamdi
+* Hadi Skaff
+* Lode Prajwala Prashamsa
+* Okwute Patrick Godwin
+* Oluwadara Joshua Olasupo
+* Opeyemi Fatunbi
+* Owoyemi Joshua
+* Terhemen Msaaga Isaac
 
 # Steps on how to go about task one
 
