@@ -1,0 +1,33 @@
+#!/bin/bash
+
+git clone "https://github.com/Sophia-Okito/team-faraday.git"
+cd team-faraday/
+
+for file in $(ls);
+do
+	if [[ $file == *.py ]];
+	then
+		python $file >> ../team-faraday.csv
+	elif [[ $file == *.r ]];
+	then
+		Rscript $file >> ../team-faraday.csv
+	elif [[ $file == *.pl ]];
+	then
+		perl $file >> ../team-faraday.csv
+	elif [[ $file == *.php ]];
+	then
+		php $file >> ../team-faraday.csv
+	elif [[ $file == *.ruby ]];
+	then
+		ruby $file >> ../team-faraday.csv
+	elif [[ $file == *.js ]];
+	then
+		nodejs $file >> ../team-faraday.csv
+	elif [[ $file == *.sh ]];
+	then
+		bash $file >> ../team-faraday.csv
+	fi
+
+echo "Running........................................"
+done
+
