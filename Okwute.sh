@@ -4,7 +4,7 @@ name='Okwute Patrick Godwin'
 email='patrickfavor.hp@gmail.com'
 language='bash'
 biostack='Genomics'
-username='@Msaaga'
+username='@Okwute'
 
 echo 'Name: ' $name
 echo 'Email: ' $email
